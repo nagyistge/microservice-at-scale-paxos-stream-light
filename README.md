@@ -1,4 +1,6 @@
-# Don't think, ADOPT 
+# Don't think, ADOPT NOW
+
+Thinking and Engineering are overrated and cost money to business, so we created the right mix of technologies to come for you. We are the only radar above all tech radars.
 
 # A microservice API for future fortune 500 companies
 
