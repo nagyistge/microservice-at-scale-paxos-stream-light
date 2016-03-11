@@ -13,3 +13,8 @@ You can now deploy our Microservice framework on Docker, Kubernetes, inside Rasb
 - Eat all your competition, Out-Hype them with something that has all the constantly updated list of buzzwords, and our top tier Marketing team is always on the move.
 
 # STAR THAT PROJECT NOW AND GET THE BENEFIT OF BEING CONTACTED BY MILLIONS OF LINKEDIN ROBOTS
+
+
+## Disclaimer
+
+This project is not yet designed for production use, which is overrated anyway. Look, NPM has many 0.x projects and these javascript devs just do fine so you are not going to be bothered by unreleased / unfinished / unpractical Java API, are you ?
