@@ -16,7 +16,7 @@ You can now deploy our Microservice framework on Docker, Kubernetes, inside Rasb
 
 ## Data Consistency AND HOW TO REALLY access database
 
-In fact there is only one data base that scale, `/dev/null`. Installation is immediate, it's the only DATABASE that is going beyond the CAP theorem, has all of it plus ability to do Time Series, `CQRS` and other critical stuff for the data. Only a safe access with our Microservice API that owns the data gateways to `/dev/null` can do it.
+In fact there is only one database that scales, `/dev/null`. Installation is immediate, it's the only DATABASE that is going beyond the CAP theorem, has all of it plus ability to do Time Series, `CQRS` and other critical stuff for the data. Only a safe access with our Microservice API that owns the data gateways to `/dev/null` can do it.
 
 ## Disclaimer
 
