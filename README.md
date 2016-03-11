@@ -6,7 +6,7 @@ Help us brainwash more freelance who need to have a better LinkedIn by starring 
 
 ## FINALLY JAVA GETS REAL DEMAGOGY. 
 
-You can now deploy Docker, Kubernetes, inside Rasberry Pi inside your oven and that will still work. Amazing robust security based on cryptocurrency bitcoin block chain all the way between Microservices.
+You can now deploy our Microservice framework on Docker, Kubernetes, inside Rasberry Pi inside your SuperNES 1990 edition within your oven and that will still work. Amazing robust security based on cryptocurrency bitcoin block chain all the way between Microservices.
 
 - Direct support for Haskell and Erlang
 - Deployment options including NSA Datacenter Cloud
