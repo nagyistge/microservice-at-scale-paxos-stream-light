@@ -1,3 +1,7 @@
+# 2016 is a dangerous year
+
+2016 smells like Economic Crisis all again, it's time to protect yourself and augment your resume !
+
 # A microservice API for future fortune 500 companies
 
 Using microservice architecture for trillions of messages per seconds at scale with geolocation and redirect to Mars orbit. Pragmatic approach all teh way with pure amnesia and no recognition of any competition that is anyway never going to be as cool as us. 
