@@ -8,23 +8,25 @@ Using microservice architecture for trillions of messages per seconds at scale w
 
 Help us brainwash more freelance who need to have a better LinkedIn by starring our project and submitting issues we will consider at some point after our IPO.
 
-## FINALLY JAVA GETS REAL DEMAGOGY. 
+## FINALLY JAVA GETS REAL. 
 
 You can now deploy our Microservice framework on Docker, Kubernetes, inside Rasberry Pi inside your SuperNES 1990 edition within your oven and that will still work. Amazing robust security based on cryptocurrency bitcoin block chain all the way between Microservices.
 
 - Direct support for Haskell and Erlang
+- No support for anything not cool or not convulted enough
 - Deployment options including NSA Datacenter Cloud
 - Eat all your competition, Out-Hype them with something that has all the constantly updated list of buzzwords, and our top tier Marketing team is always on the move.
+- Minor version upgrade is overrated, just re-install a new framework, 0.0.x by 0.0.x
+
+## Data Consistency AND HOW TO REALLY access database
+
+In fact there is only one database that scales, `/dev/null`. Installation is immediate, it's the only DATABASE that is going beyond the CAP theorem, has all of it plus ability to do Time Series, `CQRS` and other critical stuff for the data. Only a safe access with our Microservice API that owns the data gateways to `/dev/null` can do it.
 
 # 2016 is a dangerous year
 
 2016 smells like Economic Crisis all again, it's time to protect yourself and augment your resume !
 
 # STAR THAT PROJECT NOW AND GET THE BENEFIT OF BEING CONTACTED BY MILLIONS OF LINKEDIN ROBOTS
-
-## Data Consistency AND HOW TO REALLY access database
-
-In fact there is only one database that scales, `/dev/null`. Installation is immediate, it's the only DATABASE that is going beyond the CAP theorem, has all of it plus ability to do Time Series, `CQRS` and other critical stuff for the data. Only a safe access with our Microservice API that owns the data gateways to `/dev/null` can do it.
 
 ## Disclaimer
 
